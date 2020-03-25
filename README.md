@@ -17,7 +17,7 @@ Demo can be seen by clicking on the image link below:
 Image of *Daily Prophet* newspaper is given below. Download and print the image for testing the application.
 
 <p align='center'>
-	<img src="Images/daily_prophet.png" height="50%"/>
+	<img src="Images/daily_prophet.png" width="50%"/>
 </p>
 
 ## License  
