@@ -21,4 +21,4 @@ Image of *Daily Prophet* newspaper is given below. Download and print the image 
 </p>
 
 ## License  
-Animated-Text-Kit is licensed under `MIT license`. View [license](https://github.com/aagarwal1012/Daily-Prophet-AR/blob/master/LICENSE).
+`Daily-Prophet-AR` is licensed under `MIT license`. View [license](https://github.com/aagarwal1012/Daily-Prophet-AR/blob/master/LICENSE).
